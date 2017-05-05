@@ -13,3 +13,9 @@ app.use(parser.urlencoded({extended: true}))
 app.use(parser.json())
 
 app.use('/api', router)
+
+
+
+app.listen(app.get('port'), () => {
+  console.log('api running');
+})
