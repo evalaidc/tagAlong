@@ -22,7 +22,7 @@ const Driver = mongoose.model('Driver', DriverSchema);
 const Passenger = mongoose.model('Passenger', PassengerSchema);
 
 
-modules.exports = {
+module.exports = {
   Driver,
   Passenger
 }

@@ -1,21 +1,21 @@
 [
   {
-    "name": ,
-    "age": ,
-    "photo_url": ,
-    "group":
+    "name": "Eva",
+    "age": 32,
+    "photo_url": "http://dreamstop.com/wp-content/uploads/2016/08/Penguin-Dreams.jpg",
+    "group": "asdf"
   },
   {
-    "name": ,
-    "age": ,
-    "photo_url": ,
-    "group":
+    "name": "Lily",
+    "age": 45,
+    "photo_url": "http://dreamstop.com/wp-content/uploads/2016/08/Penguin-Dreams.jpg" ,
+    "group": "asdf"
   },
   {
-    "name": ,
-    "age": ,
-    "photo_url": ,
-    "group":
+    "name": "Bob",
+    "age": 23,
+    "photo_url": "http://dreamstop.com/wp-content/uploads/2016/08/Penguin-Dreams.jpg",
+    "group": "popcicles"
   }
 
 ]
