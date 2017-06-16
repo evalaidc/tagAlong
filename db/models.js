@@ -5,8 +5,7 @@ const DriverSchema = new mongoose.Schema ({
   age: { type: Number, min: 16 },
   photo_url: { type: String, required: true},
   bio: String,
-  company: String,
-  started: { type: Date, default: Date.now }
+  company: String
 }, {
   timestamps: true
 });

@@ -1,5 +1,5 @@
 const Driver = require('./models.js').Driver
-const Passenger = require('./models.js')
+const Passenger = require('./models.js').Passenger
 
 
 const DriverSeedData = require('./DriverSeedData.json');

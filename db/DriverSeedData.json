@@ -1,26 +1,23 @@
 [
   {
-    "name": ,
-    "age": ,
-    "photo_url": ,
-    "bio": ,
-    "company": ,
-    "started":
+    "name": "Ollie",
+    "age": 18 ,
+    "photo_url": "http://dreamstop.com/wp-content/uploads/2016/08/Penguin-Dreams.jpg" ,
+    "bio": "Awesome guy",
+    "company": "tootles"
   },
   {
-    "name": ,
-    "age": ,
-    "photo_url": ,
-    "bio": ,
-    "company": ,
-    "started":
+    "name": "Swat",
+    "age": 23,
+    "photo_url": "http://dreamstop.com/wp-content/uploads/2016/08/Penguin-Dreams.jpg" ,
+    "bio": "Safety First" ,
+    "company": "tootles"
   },
   {
-    "name": ,
-    "age": ,
-    "photo_url": ,
-    "bio": ,
-    "company": ,
-    "started":
+    "name": "Joe",
+    "age": 45,
+    "photo_url": "http://dreamstop.com/wp-content/uploads/2016/08/Penguin-Dreams.jpg",
+    "bio": "Lorem Ipsum",
+    "company": "IBM"
   },
 ]
